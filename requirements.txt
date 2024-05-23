@@ -1,0 +1,5 @@
+requests 
+logging
+os
+bs4
+urllib.request
